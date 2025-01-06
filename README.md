@@ -2,7 +2,7 @@
 
 COMPANY: CODETECH IT SOLUTION
 
-NAME: MAYURI JADHAV
+NAME: Vishal Raghunath Dipake 
 
 INTERN ID: CT08GBG
 
@@ -16,4 +16,4 @@ MENTOR NAME: NEELA SANTOSH KUMAR
 
 #OUTPUT: // SERVER SIDE Server started. Waiting for clients to connect... New client connected: /127.0.0.1 Johnny: Hello, everyone! Jane: Hi Johnny, how are you? New client connected: /127.0.0.1
 
-//CLIENT SIDE Enter your name: Johnny Welcome, Johnny! You can start chatting now. Jane: Hi John, how are you?
+//CLIENT SIDE Enter your name: Johnny Welcome, Johnny! You can start chatting now. Jane: Hi Johnny, how are you?
